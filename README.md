@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohmmdSjjd
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Front-End Languages
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
