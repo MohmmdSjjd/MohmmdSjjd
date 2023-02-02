@@ -1,5 +1,6 @@
 <head>
 <link href= "//#" rel= "stylesheet" >
+  <link rel= "stylesheet" href= "path/to/code-icons/css/code-icons.min.css" >
 </head>
 - 👋 Hi, I’m @MohmmdSjjd
 - 👀 I’m interested in Front-End Languages
@@ -12,4 +13,4 @@ MohmmdSjjd/MohmmdSjjd is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h3 align="left">Languages and Tools:</h3>
-<i class="\f015"> </i>
+<p><i class="\f015"></i></p>
