@@ -4,9 +4,9 @@
 </head>
 - 👋 Hi, I’m @MohmmdSjjd
 - 👀 I’m interested in Back-End Languages
-- 🌱 I’m currently learning asp .net core 
+- 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @mhmmdsjjd
 
 <!---
 MohmmdSjjd/MohmmdSjjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
