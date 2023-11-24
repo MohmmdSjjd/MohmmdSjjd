@@ -4,7 +4,7 @@
 
 💻 I'm a Full Stack Developer
 
-🧠 I'm currently learning Fast API (Fall in love with Js✅❤️)
+🧠 I'm currently learning Fast API (Fall in love with Js & Python✅❤️)
 
 👯‍♀️ I'm looking to collaborate on React & Next Project
 
