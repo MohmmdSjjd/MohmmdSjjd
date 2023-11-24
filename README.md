@@ -2,13 +2,13 @@
 
 👨‍💻 My name is MohammadSajjad
 
-💻 I'm a MERN Stack Developer
+💻 I'm a Full Stack Developer
 
-🧠 I'm currently learning MERN Stack (Fall in love with Js✅❤️)
+🧠 I'm currently learning Fast API (Fall in love with Js✅❤️)
 
-👯‍♀️ I'm looking to collaborate on React & Node Project
+👯‍♀️ I'm looking to collaborate on React & Next Project
 
-💬 Ask me about React & Node
+💬 Ask me about React & Node & Next
 
 ###
 
@@ -20,11 +20,6 @@
 ###
 
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"  />
-
-###
 ## 🚀 Skills:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -78,10 +73,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-## 💁🏻‍♂️ contributions in the last year:
-###
-
-<img src="https://raw.githubusercontent.com/MohmmdSjjd/MohmmdSjjd/output/snake.svg" alt="Snake animation" />
-
-###
