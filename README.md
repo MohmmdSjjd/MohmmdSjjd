@@ -4,11 +4,11 @@
 
 💻 I'm a Full Stack Developer
 
-🧠 I'm currently learning Fast API (Fall in love with Js & Python✅❤️)
+🧠 I'm currently learning Typescript, Next & Node (Fall in love with Js✅❤️)
 
-👯‍♀️ I'm looking to collaborate on React & Next Project
+👯‍♀️ I'm looking to collaborate on React, Node & Next Project
 
-💬 Ask me about React & Node & Next
+💬 Ask me about Typescript, React, Node & Next
 
 
 ## 🚀 Skills:
