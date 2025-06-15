@@ -45,12 +45,12 @@
 ###
 ## 💻 Socials:
 <div align="left">
-  <a href="https://discordapp.com/users/Mohmmdsjjd_98" target="_blank">
+<!--   <a href="https://discordapp.com/users/Mohmmdsjjd_98" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://instagram.com/mohmmdsjjd_98" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
+  </a> -->
   <a href="https://t.me/mhmmdsjjd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
